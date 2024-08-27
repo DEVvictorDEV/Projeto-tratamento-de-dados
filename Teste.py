@@ -18,4 +18,4 @@ df = pd.read_csv('C:\\Users\\victo\\Documents\\GitHub\\Projeto-tratamento-de-dad
 #print(replicas.shape)
 
 
-print(df.count()) # check 3 Linhas NA
+print(df.count()) # check 3 Linhas NAf
